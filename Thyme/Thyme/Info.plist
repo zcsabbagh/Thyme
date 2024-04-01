@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>Thyme needs access to your calendar to make it easier to create events and remind you about them</string>
+	<key>NSUserNotificationsUsageDescription</key>
+	<string>Thyme needs to send you Live Activites</string>
+</dict>
+</plist>
